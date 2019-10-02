@@ -1,1 +1,2 @@
-"# STOCK_PORTFOLIO" 
+StockDatabase
+Java and JDBC basics
